@@ -18,11 +18,11 @@ If a page does not exist for a class you have taken, please do us all a favor an
 
 ### 1000
  - [CS 1110 - Introduction to Computing Using Python](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1110.md)
- - [[CS 1112 - Introduction to Computing Using MATLAB]]
- - [[CS 1114 - Introduction to Computing Using MATLAB and Robotics]]
- - [[CS 1115 - Introduction to Computational Science and Engineering Using MATLAB Graphical User Iterfaces]]
- - [[CS 1132 - Transition to MATLAB]]
- - [[CS 1133 - Transition to Python]]
+ - [CS 1112 - Introduction to Computing Using MATLAB](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1112.md)
+ - [CS 1114 - Introduction to Computing Using MATLAB and Robotics](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1114.md)
+ - [CS 1115 - Introduction to Computational Science and Engineering Using MATLAB Graphical User Iterfaces](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1115.md)
+ - [CS 1132 - Transition to MATLAB](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1132.md)
+ - [CS 1133 - Transition to Python](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1133.md)
  - [[CS 1300 - Introductory Design and Programming for the Web]]
  - [[CS 1610 - Computing in the Arts]]
  - [[CS 1620 - Visual Imaging in the Electronic Age]]
