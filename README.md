@@ -17,7 +17,7 @@ If a page does not exist for a class you have taken, please do us all a favor an
 ## Classes
 
 ### 1000
- - [[CS 1110 - Introduction to Computing Using Python]]
+ - [CS 1110 - Introduction to Computing Using Python](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1110.md)
  - [[CS 1112 - Introduction to Computing Using MATLAB]]
  - [[CS 1114 - Introduction to Computing Using MATLAB and Robotics]]
  - [[CS 1115 - Introduction to Computational Science and Engineering Using MATLAB Graphical User Iterfaces]]
