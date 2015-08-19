@@ -23,12 +23,12 @@ If a page does not exist for a class you have taken, please do us all a favor an
  - [CS 1115 - Introduction to Computational Science and Engineering Using MATLAB Graphical User Iterfaces](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1115.md)
  - [CS 1132 - Transition to MATLAB](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1132.md)
  - [CS 1133 - Transition to Python](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1133.md)
- - [[CS 1300 - Introductory Design and Programming for the Web]]
- - [[CS 1610 - Computing in the Arts]]
- - [[CS 1620 - Visual Imaging in the Electronic Age]]
- - [[CS 1710 - Introduction to Cognitive Science]]
- - [[CS 1810 - Topics in the Analysis and Transmission of Knowledge and Information]]
- - [[CS 1830 - Voting: Does Democracy Have a Voice?]]
+ - [CS 1300 - Introductory Design and Programming for the Web](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1300.md)
+ - [CS 1610 - Computing in the Arts](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1610.md)
+ - [CS 1620 - Visual Imaging in the Electronic Age](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1620.md)
+ - [CS 1710 - Introduction to Cognitive Science](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1710.md)
+ - [CS 1810 - Topics in the Analysis and Transmission of Knowledge and Information](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1810.md)
+ - [CS 1830 - Voting: Does Democracy Have a Voice?](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1830.md)
 
 ### 2000
  - [[CS 2022 - Introduction to C]]
