@@ -11,7 +11,7 @@ If a page does not exist for a class you have taken, please do us all a favor an
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/) - Q&A, interesting links, and discussion
  - [Cornell CS Polls](#) - For fun or for survey
  - [ACSU Website](http://www.acsu.cornell.edu)
- - [ACSU Facebook Page](https://www.facebook.com/CornellACSU) <!-- this is still a thing? lol -->
+ - [ACSU Facebook Page](https://www.facebook.com/CornellACSU)
  - [Your CS Career 2014](https://github.com/bcuccioli/superstar-talk/raw/master/pres.pdf)
 
 ## Classes
