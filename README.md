@@ -58,7 +58,7 @@ If a page does not exist for a class you have taken, please do us all a favor an
  - [CS 4110 - Programming Languages and Logics](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS4110.md)
  - [CS 4120 - Introduction to Compilers](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS4120.md)
  - [CS 4121 - Practicum in Compilers](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS4121.md)
- - [CS 4152 - Advanced Topics in Computer Game Architecture](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS4152.md)
+ - CS 4152 - Advanced Topics in Computer Game Architecture
  - [CS 4210 - Numerical Analysis and Differential Equations](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS4210.md)
  - [CS 4220 - Numerical Analysis: Linear and Nonlinear Problems](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS4220.md)
  - CS 4300 - Information Retrieval
