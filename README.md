@@ -31,19 +31,19 @@ If a page does not exist for a class you have taken, please do us all a favor an
  - [CS 1830 - Voting: Does Democracy Have a Voice?](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS1830.md)
 
 ### 2000
- - [[CS 2022 - Introduction to C]]
- - [[CS 2024 - C++ Programming]]
- - [[CS 2026 - Introduction to C Sharp]]
- - [[CS 2042 - UNIX Tools]]
- - [[CS 2043 - UNIX Tools and Scripting]]
- - [[CS 2044 - Advanced UNIX Programming and Tools]]
- - [[CS 2048 - Introduction to iPhone App Development]]
- - [[CS 2110 - Object-Oriented Programming and Data Structures]]
- - [[CS 2111 - Java Practicum]]
- - [[CS 2112 - Object-Oriented Programming and Data Structures - Honors]]
- - [[CS 2300 - Intermediate Design and Programming for the Web]]
- - [[CS 2800 - Discrete Structures]]
- - [[CS 2850 - Networks]]
+ - [CS 2022 - Introduction to C](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2022.md)
+ - [CS 2024 - C++ Programming](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2024.md)
+ - [CS 2026 - Introduction to C Sharp](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2026.md)
+ - [CS 2042 - UNIX Tools](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2042.md)
+ - [CS 2043 - UNIX Tools and Scripting](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2043.md)
+ - [CS 2044 - Advanced UNIX Programming and Tools](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2044.md)
+ - [CS 2048 - Introduction to iPhone App Development](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2048.md)
+ - [CS 2110 - Object-Oriented Programming and Data Structures](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2110.md)
+ - [CS 2111 - Java Practicum](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2111.md)
+ - [CS 2112 - Object-Oriented Programming and Data Structures - Honors](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2112.md)
+ - [CS 2300 - Intermediate Design and Programming for the Web](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2300.md)
+ - [CS 2800 - Discrete Structures](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2800.md)
+ - [CS 2850 - Networks](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS2850.md)
 
 ### 3000
  - [[CS 3110 - Data Structures and Functional Programming]]
