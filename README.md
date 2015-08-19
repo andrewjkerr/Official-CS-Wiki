@@ -6,7 +6,7 @@ If you think you know a thing or two about Cornell CS, please clone the repo, ed
 If a page does not exist for a class you have taken, please do us all a favor and make one! You can copy paste the format of the [[Template Page]] to make your own, but don't feel constrained to those topics. This is not limited to only coursework. Contribute any resources or additional pages you think anyone may find useful!
 
 ## Handy Links
- - [[FAQ]] - Answers to some of the most commonly asked questions
+ - [FAQ](https://github.com/mrkev/Official-CS-Wiki/blob/master/FAQ.md) - Answers to some of the most commonly asked questions
  - [[Becoming More Pro]] - How to improve your CS skillz
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/) - Q&A, interesting links, and discussion
  - [Cornell CS Polls](#) - For fun or for survey
