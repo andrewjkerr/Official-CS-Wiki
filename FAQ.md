@@ -53,13 +53,15 @@ I can't really think of any other potential benefits besides qualifications or a
 
 So I guess what I recommend is, if you enjoy a subfield, keep taking courses in it. If you liked ECE 2300, take the next course. Take other things in ECE if you think they might interest you. But definitely don't feel pressured to do the entire major, or even a minor, unless you really really are interested in almost every part of that major/minor.
 
-- Gautam Kamath (Double Major CS and ECE)
+-- Gautam Kamath (Double Major CS and ECE)
+
+
 
 However, if you are interested in working in a field that straddles both hardware as well as software, then a double major might come in really handy. One thing to realize is that neither hardware nor software is complete without each other. It is impossible to understand software purely as it is without knowing the hardware details behind it. It's also interesting to think about problems in hardware and how they affect software complexities. Whoever taught you that hashtables have better lookup than arraylists completely ignored the hardware memory concerns. Also, whoever said that vectors always perform slower than arraylists again did not consider hardware cache evictions.
 
 A double major gives you insight into an extensive array of problems. More education or more knowledge is never a bane. The main question is what are your reasons for double majoring. Consider those carefully before making your decision.
 
-- Ranjay Krishna (Double Major CS and ECE)
+-- Ranjay Krishna (Double Major CS and ECE)
 
 ## Can I take a course if I don't have all the prerequisites?
 Yes. Nobody ever enforces prerequisites. However, it's a good idea to make sure you're at least partially comfortable with any topics that may have been covered in the prerequisites.
