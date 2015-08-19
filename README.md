@@ -52,7 +52,7 @@ If a page does not exist for a class you have taken, please do us all a favor an
  - [CS 3410 - Computer System Organization and Programming](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS3410.md)
  - [CS 3420 - Embedded Systems](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS3420.md)
  - [CS 3740 - Computational Linguistics](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS3740.md)
- - [CS 3758 - Autonomous Mobile Robots]](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS3758.md)
+ - [CS 3758 - Autonomous Mobile Robots](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS3758.md)
 
 ### 4000
  - [CS 4110 - Programming Languages and Logics](https://github.com/mrkev/Official-CS-Wiki/blob/master/classes/CS4110.md)
