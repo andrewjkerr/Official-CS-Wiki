@@ -7,7 +7,7 @@ If a page does not exist for a class you have taken, please do us all a favor an
 
 ## Handy Links
  - [FAQ](https://github.com/mrkev/Official-CS-Wiki/blob/master/FAQ.md) - Answers to some of the most commonly asked questions
- - [Becoming More Pro] - How to improve your CS skillz
+ - [Becoming More Pro](https://github.com/mrkev/Official-CS-Wiki/blob/master/resources/practice.md) - How to improve your CS skillz
  - [Cornell CS Facebook Group](https://www.facebook.com/groups/CornellCS/) - Q&A, interesting links, and discussion
  - [Cornell CS Polls](#) - For fun or for survey
  - [ACSU Website](http://www.acsu.cornell.edu)
