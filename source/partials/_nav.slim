@@ -1,0 +1,12 @@
+nav
+    = link_to config[:site_title], "/", class: 'blog-title'
+
+    ul
+        li
+            = link_to "Home", "/", class: 'nav-item'
+        li
+            = link_to "Classes", "/classes", class: 'nav-item'
+        li
+            = link_to "Practice", '/practice', class: 'nav-item'
+        li
+            = link_to "FAQ", '/faq', class: 'nav-item'

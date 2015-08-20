@@ -1,0 +1,8 @@
+---
+pageable: false
+---
+
+ul.no-bullets
+    - page_articles.reverse.each do |class_page|
+        li
+            = link_to_class class_page.title, class_page
